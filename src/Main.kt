@@ -1,5 +1,3 @@
-import javax.swing.plaf.metal.MetalIconFactory.FileIcon16
-
 fun main() {
     patient("Jessica","Evelyn","Damian","Vicent")
 
